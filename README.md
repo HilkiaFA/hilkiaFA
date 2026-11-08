@@ -69,15 +69,16 @@
 <h3 align="center">📊 GitHub Stats & Top Languages</h3>
 
 <div align="center">
-  <!-- URL diperbaiki: menghapus garis miring setelah top-langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilkiaFA&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <!-- Alternatif Top Languages (Pie Chart) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hilkiaFA&theme=radical" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <!-- Parameter disederhanakan untuk menghindari error API -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hilkiaFA&show_icons=true&theme=radical" alt="GitHub General Stats" />
+  <!-- Alternatif General Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hilkiaFA&theme=radical" alt="GitHub General Stats" />
 </div>
 <br>
 <div align="center">
+  <!-- Streak (Masih menggunakan yang lama karena lancar) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilkiaFA&theme=radical" alt="GitHub Streak" />
 </div>
