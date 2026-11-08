@@ -69,16 +69,15 @@
 <h3 align="center">📊 GitHub Stats & Top Languages</h3>
 
 <div align="center">
-  <!-- Bahasa Pemrograman yang Paling Banyak Digunakan -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilkiaFA&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <!-- URL diperbaiki: menghapus garis miring setelah top-langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilkiaFA&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <!-- Statistik Kontribusi & Proyek Keseluruhan -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hilkiaFA&show_icons=true&theme=radical&rank_icon=github" alt="GitHub General Stats" />
+  <!-- Parameter disederhanakan untuk menghindari error API -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hilkiaFA&show_icons=true&theme=radical" alt="GitHub General Stats" />
 </div>
 <br>
 <div align="center">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilkiaFA&theme=radical" alt="GitHub Streak" />
 </div>
