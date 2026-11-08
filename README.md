@@ -24,9 +24,11 @@
     </td>
     <td width="50%" align="center">
       <h3 align="center">🔗 Connect with Me</h3>
+      <br>
       <a href="https://instagram.com/hilkia1408_" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
+      <br><br>
       <a href="mailto:hilkiafarrel13@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
@@ -64,12 +66,19 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats & Top Languages</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilkiaFA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Bahasa Pemrograman yang Paling Banyak Digunakan -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilkiaFA&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
+  <!-- Statistik Kontribusi & Proyek Keseluruhan -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hilkiaFA&show_icons=true&theme=radical&rank_icon=github" alt="GitHub General Stats" />
+</div>
+<br>
+<div align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilkiaFA&theme=radical" alt="GitHub Streak" />
 </div>
